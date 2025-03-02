@@ -68,3 +68,18 @@ The goal is to identify key insights that drive business decisions and visualize
 │   │-- tableau_dashboard.twbx  --> Tableau file
 │   │-- tableau_public_link.txt  --> Link to Tableau Public
 ```
+## 📜 How to Run the Project
+
+1. Clone the repository
+2. Open `data/` folder and load `superstore_cleaned.csv` into Tableau
+3. Run Python scripts for analysis: python scripts/cleaning.py python scripts/eda.py
+4. Open Tableau dashboard from `dashboard/`
+
+## 🤝 Contributors
+
+- **Person B** - Data Cleaning & Transformation (SQL/Python)
+- **Gyurim Do** - Exploratory Analysis & Tableau Visualization
+
+## 📢 Contact & Showcase
+
+📌 [LinkedIn](https://www.linkedin.com/) | 📌 [GitHub](https://github.com/)
