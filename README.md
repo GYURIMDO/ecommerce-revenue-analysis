@@ -77,8 +77,8 @@ The goal is to identify key insights that drive business decisions and visualize
 
 ## 🤝 Contributors
 
-- **Person B** - Data Cleaning & Transformation (SQL/Python)
-- **Gyurim Do** - Exploratory Analysis & Tableau Visualization
+- **Person B** 
+- **Gyurim Do** 
 
 ## 📢 Contact & Showcase
 
