@@ -18,7 +18,7 @@ The goal is to identify key insights that drive business decisions and visualize
 ## 📂 Dataset Information
 
 - **Dataset**: Superstore Sample Dataset (from Tableau)
-- **Size**: ~10,000 rows, 21 columns
+- **Size**: ~11,000 rows, 19 columns
 - **Key Fields**: Order ID, Product, Customer, Sales, Profit, Discount, Order Date
 
 ## 🛠 Tools & Technologies
