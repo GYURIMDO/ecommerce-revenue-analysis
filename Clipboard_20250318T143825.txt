@@ -1,0 +1,4 @@
+Category	Sales
+Furniture	1,495,995,621.73501
+Office Supplies	3,757,706,636.0697
+Technology	1,067,798,200.48943
