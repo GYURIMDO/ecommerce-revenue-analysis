@@ -45,7 +45,6 @@ The goal is to identify key insights that drive business decisions and visualize
 ```
 /ecommerce-revenue-analysis/
 │-- 📄 [README.md](http://readme.md/)  --> Main project overview
-│-- 📄 dataset_inspection.md  --> Initial dataset analysis
 │-- 📄 data_cleaning_report.md  --> Data cleaning process
 │-- 📄 exploratory_analysis.md  --> EDA & insights
 │-- 📄 final_insights.md  --> Summary of key business insights
@@ -58,11 +57,6 @@ The goal is to identify key insights that drive business decisions and visualize
 │   │-- [cleaning.py](http://cleaning.py/)  --> Python/SQL script for cleaning data
 │   │-- [eda.py](http://eda.py/)  --> Exploratory Data Analysis (EDA) script
 │   │-- transformations.sql  --> SQL transformations (if applicable)
-│
-│-- 📂 visualizations/
-│   │-- revenue_trends.png
-│   │-- customer_segments.png
-│   │-- sales_by_category.png
 │
 │-- 📂 dashboard/
 │   │-- tableau_dashboard.twbx  --> Tableau file
@@ -77,9 +71,9 @@ The goal is to identify key insights that drive business decisions and visualize
 
 ## 🤝 Contributors
 
-- **Person B** 
+- **Yu Seongyuel** 
 - **Gyurim Do** 
 
 ## 📢 Contact & Showcase
 
-📌 [LinkedIn](https://www.linkedin.com/) | 📌 [GitHub](https://github.com/)
+📌 [LinkedIn](https://www.linkedin.com/in/gyurimdo/) | 📌 [GitHub](https://github.com/GYURIMDO)
