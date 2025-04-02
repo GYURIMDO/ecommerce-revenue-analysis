@@ -37,9 +37,19 @@ The goal is to identify key insights that drive business decisions and visualize
 
 🔹 **Loyal customers generate 65% of total revenue** 💰
 
-## 📌 Tableau Dashboard
+## 📊 Tableau Dashboard
 
-🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/)
+🚀 **Live Dashboard:**  
+[E-Commerce Profitability & Sales Analysis (Tableau Public)](https://public.tableau.com/app/profile/gyurim.do5434/viz/E-CommerceProfitabilitySalesAnalysis/SalesPerformanceDashboard?publish=yes)
+
+This interactive dashboard includes:
+- Sales trends over time
+- Profitability vs Discount impact
+- Regional performance
+- Shipping delays by mode
+
+Built using Tableau + cleaned e-commerce dataset.
+
 
 ## 📁 Project Structure
 ```
