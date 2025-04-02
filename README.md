@@ -40,7 +40,7 @@ The goal is to identify key insights that drive business decisions and visualize
 ## 📊 Tableau Dashboard
 
 🚀 **Live Dashboard:**  
-[E-Commerce Profitability & Sales Analysis (Tableau Public)](https://public.tableau.com/app/profile/gyurim.do5434/viz/E-CommerceProfitabilitySalesAnalysis/SalesPerformanceDashboard?publish=yes)
+[E-Commerce Profitability & Sales Analysis (Tableau Public)](https://public.tableau.com/app/profile/gyurim.do5434/viz/E-CommerceProfitabilitySalesAnalysis/ProfitabilityShippingDashboard?publish=yes)
 
 This interactive dashboard includes:
 - Sales trends over time
